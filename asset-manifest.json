@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/CARD-Assignment/static/css/main.7835adac.css",
+    "main.js": "/CARD-Assignment/static/js/main.e61cacb7.js",
+    "index.html": "/CARD-Assignment/index.html",
+    "main.7835adac.css.map": "/CARD-Assignment/static/css/main.7835adac.css.map",
+    "main.e61cacb7.js.map": "/CARD-Assignment/static/js/main.e61cacb7.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7835adac.css",
+    "static/js/main.e61cacb7.js"
+  ]
+}
